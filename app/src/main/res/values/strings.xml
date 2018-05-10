@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GNBBershka</string>
+    <string name="str_sku">SKU</string>
+    <string name="str_amount">AMOUNT</string>
+    <string name="str_currency">CURRENCY</string>
+    <string name="title_activity_list_sum">ListSum</string>
+    <string name="total">Total:</string>
+    <string name="euro">%1$s €</string>
+</resources>
